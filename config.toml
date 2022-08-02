@@ -126,20 +126,20 @@ enableEmoji = true
     title = "About Haley"
     url = "/about/"
     weight = 1
-  #[[menu.header]]
-  #  name = "Blog"
-  #  title = "Blog"
-  #  url = "/blog/"
-  #  weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
+    weight = 2
+  [[menu.header]]
+    name = "Teaching"
+    title = "Teaching"
+    url = "/teach/"
     weight = 3
   #[[menu.header]]
-  #  name = "Talks"
-  #  title = "Talks"
-  #  url = "/talk/"
+  #  name = "Blog"
+  #  title = "Blog"
+  #  url = "/blog/"
   #  weight = 4
   #[[menu.header]]
   #  name = "A collection"

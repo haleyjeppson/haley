@@ -7,7 +7,7 @@ number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
   This is a work in progress - more to come!  :)
-show_outro: true
+show_outro: false
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Alison Hill](https://www.apreshill.com/) for providing this Hugo theme with wonderful documention!
 ---
