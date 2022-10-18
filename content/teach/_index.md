@@ -11,7 +11,7 @@ cascade:
     text_link_label: View recent teaching
     text_link_url: /teach/
 description: |
-  This is a list of my teaching and workshop experience.
+  This is a list of my teaching and TAing experience.
 layout: list
 show_author_byline: false
 show_button_links: true
