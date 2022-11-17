@@ -12,6 +12,10 @@ links:
   icon_pack: fas
   name: website
   url: https://haleyjeppson.github.io/ggmosaic/
+- icon: flask
+  icon_pack: fas
+  name: shiny app
+  url:  https://haley.shinyapps.io/mosaics/
 - icon: github
   icon_pack: fab
   name: code
